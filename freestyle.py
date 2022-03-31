@@ -7,8 +7,7 @@ set_name = 'set_id1'
 #my_set_list = ['set_id2', 'set_id3'] # this wont be a list in the real code it wil be a string that i get from db node_uuid
 list_node_dict = list(node_dict.keys())
 
-
-
+#shalom
 def print_eps_paired_to_node():
     for nodes in list_node_dict:
         if nodes == uuid:
